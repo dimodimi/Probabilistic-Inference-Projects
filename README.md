@@ -1,5 +1,5 @@
 # Probabilistic-Inference-Projects
-Series of programs for probabilistic inference
+Series of projects on graph-based probabilistic inference
 
 Project 1 - Distributions
 
